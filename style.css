@@ -187,7 +187,7 @@ p {
 .profile-photo {
   display: block;
   width: 100%;
-  max-width: 400px;
+  max-width: 600px;
   height: auto;
   object-fit: contain;
   border-radius: 0;
