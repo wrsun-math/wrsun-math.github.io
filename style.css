@@ -224,3 +224,16 @@ p { margin: 0 0 18px; }
   .contact-card dl > div { grid-template-columns: 88px 1fr; }
   .footer-inner { align-items: flex-start; justify-content: center; flex-direction: column; padding: 18px 0; }
 }
+
+.hero {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+}
+
+.profile-photo {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 50%;
+}
